@@ -50,7 +50,7 @@ Bonus:
 
 ### Links
 
-- Live Site URL: [link](https://kanban-task-management-react-tailwind.vercel.app/)
+- Live Site URL: [link](https://project-deepak-kanban.netlify.app/)
 
 ### Built with
 
