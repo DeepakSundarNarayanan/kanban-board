@@ -59,6 +59,4 @@ Bonus:
 - [React](https://reactjs.org/) - JS library
 - [Redux](https://redux.js.org/) - State management tool
 
-### Useful resources
 
-- [Drag and Drop quick tutorial](https://www.youtube.com/watch?v=u65Y-vqYNAk)
